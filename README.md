@@ -1,5 +1,5 @@
 # Introduktion
 
-### Tjenare! Jag heter *William*.
+### Tjo! Jag heter *William*, bor i  Norrtälje och studerar till Front End Developer.
 *wow kursiv text!*
 
