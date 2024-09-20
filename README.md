@@ -1,3 +1,5 @@
 # Introduktion
 
-### Tjo! Jag heter William och gillar pizza.
+### Tjenare! Jag heter *William*.
+*wow kursiv text!*
+
