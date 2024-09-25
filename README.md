@@ -4,4 +4,4 @@
 Jag heter William, bor i Norrtälje och studerar till Front End Developer.
 
 
-*Trevligt att träffas!* 
+*Jag har ändrat denna text som det skulle göras under lektionen.* 
